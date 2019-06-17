@@ -184,3 +184,6 @@ $RECYCLE.BIN/
 
 # Visual Studio 2014 CTP
 **/*.sln.ide
+
+# VS 2017 and VS 2019
+.vs/
